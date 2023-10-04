@@ -24,4 +24,4 @@ What were the critical findings of the audit that need to be addressed immediate
 What were the findings (i.e., What controls and/or policies that need to be addressed in the future)?
 How can I summarize the recommendations clearly and concisely to stakeholders?
 ```
-- Create a stakeholder memorandum to communicate my findings and recommendations to stakeholders.
+- Create a [stakeholder memorandum](https://github.com/binhnhu1409/Cybersecurity_ConductSecurityAudit/blob/main/Stakeholder%20memorandum.pdf) to communicate my findings and recommendations to stakeholders.
